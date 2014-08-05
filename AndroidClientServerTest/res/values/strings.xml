@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidClientServerTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_configure">Configure Server Settings</string>
+	<string-array name="ip_addrs">
+	    <item>10.18.25.166</item>
+	    <item>10.18.25.200</item>
+	</string-array>
+	<string-array name="ports">
+	    <item>12345</item>
+	    <item>2000</item>
+	</string-array>
+</resources>
